@@ -7,3 +7,4 @@ love
 我爱你，
 小明
 
+Test git diff
